@@ -14,5 +14,6 @@ You can click the Preview link to take a look at your changes.
 # ¿2nd Generation Lamb Of God Fan?
 # Born In 96'
 # Able to listen to rap
-#$ 'Knowing about Security'
-#$ Does Not Rap
+# 'Knowing about Security'
+# Does Not Rap
+# Able to Program
