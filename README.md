@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SocraticLoops
-- 👀 I’m interested in Developer Security Operations
+- 👀 I’m interested in Becoming A Developer Security Operations
 - 🌱 I’m currently learning To Become A Developer
 -   💞️ I’m looking to collaborate on #Getting_Off_My_Case
 - 📫 How to reach me (778) 675-1990 (2021-12-16)
